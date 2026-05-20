@@ -1,0 +1,2 @@
+# Intelligent-Theft-Management-System-A-YOLO-Based-Real-Time-CCTV-Monitoring-for-Jewellers
+Use this shorter GitHub repository description (unAI-powered real-time CCTV surveillance system for jewelry stores using YOLOv5. Detects intrusions and suspicious activities with high accuracy under varying lighting conditions. Features SMS/email alerts, admin dashboard, and low-latency object detection for automated theft prevention.
